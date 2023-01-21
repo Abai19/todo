@@ -1,0 +1,8 @@
+.completed {
+    text-decoration: line-through;
+}
+.singleTodo{
+    width: 100%;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
